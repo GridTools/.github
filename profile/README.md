@@ -1,6 +1,6 @@
 # The GridTools Framework
 
-The GridTools Framework is a set of libraries and utilities for the weather and climate domain. GridTools is an effort led by [CSCS](https://www.cscs.ch) at ETH Zurich. Community contributions that are aligned with the goals of the GridTools framework are welcome. These external (to ETH Zurich) contributions require signing the [GridTools Contributor Assignment Agreement](https://github.com/GridTools/CAA/blob/main/GridToolsCAA.pdf).
+The GridTools Framework is a set of libraries and utilities for the weather and climate domain. GridTools is an effort led by [CSCS](https://www.cscs.ch) at ETH Zurich. Community contributions that are aligned with the goals of the GridTools framework are welcome.
 
 The main projects in the GridTools Framework are
 
